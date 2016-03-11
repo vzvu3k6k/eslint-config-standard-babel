@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-standard-babel",
+  "description": "ESLint config for those who use eslint-config-standard and eslint-plugin-babel",
+  "version": "0.0.1",
+  "author": "vzvu3k6k <vzvu3k6k@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/vzvu3k6k/eslint-config-standard-babel/issues"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "JavaScript Standard Style"
+  ],
+  "homepage": "https://github.com/vzvu3k6k/eslint-config-standard-babel#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint-config-standard": "^5.1.0",
+    "eslint-plugin-babel": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzvu3k6k/eslint-config-standard-babel.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
