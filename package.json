@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-standard-babel",
   "description": "ESLint config for those who use eslint-config-standard and eslint-plugin-babel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "vzvu3k6k <vzvu3k6k@gmail.com>",
   "bugs": {
     "url": "https://github.com/vzvu3k6k/eslint-config-standard-babel/issues"
