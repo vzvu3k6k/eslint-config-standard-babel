@@ -4,8 +4,6 @@ This is an ESLint config for those who use eslint-config-standard and eslint-plu
 
 It enables fixed rules that eslint-config-standard uses with the same options and disables the original ones.
 
-Restriction: There is no fix for eslint-plugin-standard (standard/object-curly-even-spacing, standard/array-bracket-even-spacing, standard/computed-property-even-spacing).
-
 ## Installation
 
 Install eslint-config-standard-babel to your package.
