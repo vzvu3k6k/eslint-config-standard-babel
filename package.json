@@ -6,6 +6,9 @@
   "bugs": {
     "url": "https://github.com/vzvu3k6k/eslint-config-standard-babel/issues"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "eslint",
     "eslintconfig",
